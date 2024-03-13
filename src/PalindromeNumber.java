@@ -1,4 +1,4 @@
-public class Palindrome {
+public class PalindromeNumber {
 
     public static void main(String[] args){
         int num = 122231;
@@ -18,5 +18,6 @@ public class Palindrome {
         else {
             System.out.println(rev+" is not a palindrome");
         }
+
     }
 }
